@@ -25,7 +25,7 @@ Passionate about creating development tools, innovative applications, and digita
 </p>
 
 ---
-
+<!--
 ## 🔧 Technical Skills
 
 - **Languages:** Python, JavaScript, TypeScript, Bash
@@ -48,7 +48,7 @@ Here are some of the projects I've worked on:
 Find more projects in my GitHub repositories!
 
 ---
-
+-->
 ## ✨ Get in Touch
 
 I’m always open to exchanging ideas, collaborating, or answering your questions. Feel free to reach out via:
