@@ -4,6 +4,8 @@
 I am **Einswilli**, Python Developer for six (6) years ⌨ | Open-source enthusiast ⚽ | Video game lover 🎮 | French and English (Intermediate) polyglot.  
 Passionate about creating development tools, innovative applications, and digital solutions, I am always looking for new challenges to enhance my skills and share my knowledge.
 
+Currently working on [FletX](https://github.com/AllDotPy/FletX), The open-source GetX-inspired Python Framework for Building Reactive, Cross-Platform Apps with Flet.
+
 ---
 
 ## 📊 My GitHub Stats
@@ -13,19 +15,21 @@ Passionate about creating development tools, innovative applications, and digita
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=einswilli&theme=radical" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=einswilli&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=einswilli&layout=compact&theme=radical" alt="Top Languages" /> -->
 </p>
 
+<!-- 
 ---
 
 ## 🏆 Achievements and Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=einswilli&theme=radical&column=6" alt="GitHub Trophies" />
-</p>
+</p> -->
 
+<!-- 
 ---
-<!--
+
 ## 🔧 Technical Skills
 
 - **Languages:** Python, JavaScript, TypeScript, Bash
@@ -52,10 +56,10 @@ Find more projects in my GitHub repositories!
 ## ✨ Get in Touch
 
 I’m always open to exchanging ideas, collaborating, or answering your questions. Feel free to reach out via:
-- ✉️ **[Your Email]**
-- 🌐 [Your Website or Portfolio](#)
+- ✉️ **einswilligoeh@gmail.com**
+<!-- 🌐 [Your Website or Portfolio](#)
 - 💼 [LinkedIn](#)
-- 🐦 [Twitter](#)
+- 🐦 [Twitter](#) -->
 
 ---
 
