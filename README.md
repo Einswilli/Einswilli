@@ -1,8 +1,22 @@
-# 👋 Welcome to my GitHub Profile!
+<span><img src="https://komarev.com/ghpvc/?username=Einswilli&color=blue" alt="View count"></span>
+<a href="https://github.com/sponsors/browniebroke">
+  <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/Einswilli?logo=github&style=flat-square">
+</a>
+<a href="https://ko-fi.com/Einswilli">
+  <img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-00b9fe?style=flat-square&logo=ko-fi">
+</a>
+<a href="https://www.buymeacoffee.com/einswilligK">
+  <img alt="Buy me a coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=000000">
+</a>
+<!-- <a rel="me" href="https://fosstodon.org/@browniebroke">
+  <img alt="Mastodon Profile" src="https://img.shields.io/mastodon/follow/109287018935608331?domain=https%3A%2F%2Ffosstodon.org&style=social">
+</a> -->
 
-## 🌟 About Me
-I am **Einswilli**, Python Developer for six (6) years ⌨ | Open-source enthusiast ⚽ | Video game lover 🎮 | French and English (Intermediate) polyglot.  
-Passionate about creating development tools, innovative applications, and digital solutions, I am always looking for new challenges to enhance my skills and share my knowledge.
+# 👋 Hi there !
+
+- I am **Einswilli**, Python Developer for six (6) years :snake: | Open-source enthusiast ⚽ | Video game lover 🎮 | French and English (Intermediate) polyglot.
+- I work with Python :snake: and Django :unicorn:
+- I'm a maintainer of FletX
 
 Currently working on [FletX](https://github.com/AllDotPy/FletX), The open-source GetX-inspired Python Framework for Building Reactive, Cross-Platform Apps with Flet.
 
@@ -10,49 +24,19 @@ Currently working on [FletX](https://github.com/AllDotPy/FletX), The open-source
 
 ## 📊 My GitHub Stats
 
-<p align="center">
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Einswilli&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Einswilli&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Einswilli&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<!--  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=einswilli&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=einswilli&theme=radical" alt="GitHub Streak" />
   <br />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=einswilli&layout=compact&theme=radical" alt="Top Languages" /> -->
-</p>
-
-<!-- 
----
-
-## 🏆 Achievements and Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=einswilli&theme=radical&column=6" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=einswilli&layout=compact&theme=radical" alt="Top Languages" /> 
 </p> -->
 
-<!-- 
----
 
-## 🔧 Technical Skills
-
-- **Languages:** Python, JavaScript, TypeScript, Bash
-- **Frameworks:** Django, Django REST Framework, Angular, Flask
-- **DevOps:** Docker, Docker Compose, Nginx, CI/CD
-- **Databases:** PostgreSQL, MySQL, MongoDB, Peewee
-- **Tools:** Git, VS Code, Pytest, WebSocket, Firebase, Google Cloud
-- **APIs:** Payment integrations (Stripe, PayPal, custom APIs)
-
----
-
-## 🌐 My Projects
-
-Here are some of the projects I've worked on:
-1. **[Ngrok Alternative](#)** - A secure platform to expose local servers to the internet.
-2. **[ExoHub](#)** - An educational hub offering personalized exercises for students.
-3. **[AI-Powered E-commerce](#)** - An AI solution to enhance the performance of online stores.
-4. **[Multi-Payment SDK](#)** - A unified library for integrating various payment providers.
-
-Find more projects in my GitHub repositories!
-
----
--->
 ## ✨ Get in Touch
 
 I’m always open to exchanging ideas, collaborating, or answering your questions. Feel free to reach out via:
@@ -64,3 +48,4 @@ I’m always open to exchanging ideas, collaborating, or answering your question
 ---
 
 Thank you for visiting my profile! 🌟 Don’t forget to leave a ⭐️ on repositories you find interesting!
+
