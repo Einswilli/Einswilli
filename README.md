@@ -14,9 +14,9 @@
 
 # 👋 Hi there !
 
-- I am **Einswilli**, Python Developer for six (6) years :snake: | Open-source enthusiast ⚽ | Video game lover 🎮 | French and English (Intermediate) polyglot.
+- I am **Einswilli**, Python Developer for six (6) years :snake: | Open-source enthusiast ⚽ | Video game lover 🎮.
 - I work with Python :snake: and Django :unicorn:
-- I'm a maintainer of FletX
+- I'm a maintainer of FletX, Valkyrie, Forklet and EasySwitch
 
 Currently working on [FletX](https://github.com/AllDotPy/FletX), The open-source GetX-inspired Python Framework for Building Reactive, Cross-Platform Apps with Flet.
 
@@ -41,8 +41,8 @@ Currently working on [FletX](https://github.com/AllDotPy/FletX), The open-source
 
 I’m always open to exchanging ideas, collaborating, or answering your questions. Feel free to reach out via:
 - ✉️ **einswilligoeh@gmail.com**
+- 💼 [LinkedIn](https://linkedin.com/in/wilfried-goeh-a645041aa)
 <!-- 🌐 [Your Website or Portfolio](#)
-- 💼 [LinkedIn](#)
 - 🐦 [Twitter](#) -->
 
 ---
