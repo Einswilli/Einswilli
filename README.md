@@ -15,10 +15,12 @@
 # 👋 Hi there !
 
 - I am **Einswilli**, Python Developer for six (6) years :snake: | Open-source enthusiast ⚽ | Video game lover 🎮.
-- I work with Python :snake: and Django :unicorn:
-- I'm a maintainer of FletX, Valkyrie, Forklet and EasySwitch
+- I work with Python :snake:, Django :unicorn: and Rust 🦀
+- I'm a maintainer of Ryx, FletX, Valkyrie, Forklet and EasySwitch
 
-Currently working on [FletX](https://github.com/AllDotPy/FletX), The open-source GetX-inspired Python Framework for Building Reactive, Cross-Platform Apps with Flet.
+Currently working on:
+- [Ryx](https://github.com/AllDotPy/Ryx), A Django-style Python ORM powered by sqlx (Rust) via PyO3.
+- [FletX](https://github.com/AllDotPy/FletX), The open-source GetX-inspired Python Framework for Building Reactive, Cross-Platform Apps with Flet.
 
 ---
 
