@@ -14,7 +14,7 @@
 
 # 👋 Hi there !
 
-- I am **Einswilli**, Python Developer for six (6) years :snake: | Open-source enthusiast ⚽ | Video game lover 🎮.
+- I am **Wilfried GOEH** aka **Einswilli**, Python Developer for six (6) years :snake: | Open-source enthusiast ⚽ | Video game lover 🎮.
 - I work with Python :snake:, Django :unicorn: and Rust 🦀
 - I'm a maintainer of Ryx, FletX, Valkyrie, Forklet and EasySwitch
 
